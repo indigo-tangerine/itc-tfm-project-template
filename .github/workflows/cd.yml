@@ -28,7 +28,7 @@ jobs:
       aws-cicd-automation-role-external-id: ${{ secrets.ITC_AWS_IAM_EXTERNAL_ID }}
       aws-cicd-automation-github-role: ${{ secrets.CICD_AUTOMATION_GITHUB_ACTIONS_ROLE }}
 
-    # CALL WORKFLOW changelog
+  # CALL WORKFLOW changelog
   update-changelog:
     needs: [tfm-plan-apply]
     uses: indigo-tangerine/shared-workflows/.github/workflows/update-changelog.yml@main

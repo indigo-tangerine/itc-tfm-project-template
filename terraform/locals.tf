@@ -10,4 +10,5 @@ locals {
   aws_provider_assume_role_arn = "arn:aws:iam::${var.aws_account_id}:role/${local.cicd_automation_role_name}"
 
   cicd_automation_role_name = "${var.client}-cicd-automation"
+
 }

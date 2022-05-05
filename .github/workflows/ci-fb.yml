@@ -1,4 +1,4 @@
-name: continuous-integration feature branch
+name: continuous-integration-fb
 
 on:
   push:

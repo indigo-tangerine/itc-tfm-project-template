@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v0.3.0](https://github.com/indigo-tangerine/itc-tfm-project-template/releases/tag/v0.3.0) - 2022-05-06 19:28:25
+
+*No description*
+
+### Bug Fixes
+
+- general:
+  - update variables ([a450049](https://github.com/indigo-tangerine/itc-tfm-project-template/commit/a450049cfdafda3c756b1d4e5abd250b8badda41))
+
 ## [v0.2.0](https://github.com/indigo-tangerine/itc-tfm-project-template/releases/tag/v0.2.0) - 2022-05-05 19:54:14
 
 *No description*
